@@ -6,6 +6,7 @@ module GovukPublishingComponents
         collections
         collections-publisher
         contacts-admin
+        kk
         content-data-admin
         content-publisher
         content-tagger
